@@ -1,0 +1,20 @@
+{
+  "name": "File-IO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joechesney/File-IO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joechesney/File-IO/issues"
+  },
+  "homepage": "https://github.com/joechesney/File-IO#readme"
+}
